@@ -90,33 +90,6 @@ Diagnosa is a comprehensive healthcare platform that enables:
 - **uuid** - Unique identifier generation
 - **@emoji-mart** - Emoji picker
 
-## 📁 Project Structure
-
-```
-src/
-├── components/          # Reusable UI components
-│   ├── appointments/    # Appointment-related components
-│   ├── calendar/        # Calendar and scheduling components
-│   ├── chat/           # Chat and messaging components
-│   ├── health/         # Health tracking components
-│   ├── medical/        # Medical-specific components
-│   ├── notifications/  # Notification components
-│   ├── profile/        # User profile components
-│   └── ui/             # Base UI components
-├── context/            # React context providers
-├── hooks/              # Custom React hooks
-├── layouts/            # Layout components
-├── lib/                # Utility libraries and configurations
-├── pages/              # Page components
-│   ├── admin/          # Admin pages
-│   ├── doctor/         # Doctor-specific pages
-│   └── patient/        # Patient-specific pages
-├── services/           # API and external services
-├── styles/             # Global styles and animations
-├── types/              # TypeScript type definitions
-└── utils/              # Utility functions
-```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
