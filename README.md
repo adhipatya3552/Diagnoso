@@ -188,25 +188,6 @@ The application is fully responsive and optimized for mobile devices with:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-For support, email support@diagnosa.com or create an issue in the repository.
-
-## 🔮 Roadmap
-
-- [ ] Telemedicine video calls integration
-- [ ] AI-powered symptom checker
-- [ ] Integration with electronic health records (EHR)
-- [ ] Mobile app development
-- [ ] Multi-language support
-- [ ] Advanced analytics dashboard
-- [ ] Insurance integration
-- [ ] Pharmacy integration
-
 ---
 
 **Built with ❤️ for better healthcare** 
